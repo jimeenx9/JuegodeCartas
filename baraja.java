@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-import java.util.Collections;
+import java.util.Collections; //Esto es una prueba para GITHUB
 
 public class baraja {
     // Atributos
